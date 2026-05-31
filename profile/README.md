@@ -1,5 +1,7 @@
 # Rux
 
+[![Ruxy](assets/ruxy.png)](https://github.com/rux-lang)
+
 > **Fast. Compiled. Strongly Typed. Multi-Paradigm.**
 
 Welcome to the official GitHub organization for **Rux**, a fast, compiled, strongly typed, multi-paradigm, general-purpose programming language.
