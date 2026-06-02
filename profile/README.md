@@ -1,6 +1,10 @@
 # Rux
 
-[![Ruxy](assets/ruxy.png)](https://github.com/rux-lang)
+<p align="center">
+  <a href="https://github.com/rux-lang">
+    <img src="assets/Ruxy.svg" alt="Ruxy" width="80%">
+  </a>
+</p>
 
 > **Fast. Compiled. Strongly Typed. Multi-Paradigm.**
 
